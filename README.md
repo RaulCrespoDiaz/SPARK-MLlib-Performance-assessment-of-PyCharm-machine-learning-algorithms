@@ -45,17 +45,17 @@ The characteristics of the computer we use to make these exercises are:
 
 # Analysis:
 
-![Final chart](./pictures/image1.png "Final result")
+![Final chart](./pictures/image1.JPG "Final result")
 
-![Final chart](./pictures/image2.png "Final result")
+![Final chart](./pictures/image2.JPG "Final result")
 
-![Final chart](./pictures/image3.png "Final result")
+![Final chart](./pictures/image3.JPG "Final result")
 
-![Final chart](./pictures/image4.png "Final result")
+![Final chart](./pictures/image4.JPG "Final result")
 
-![Final chart](./pictures/image5.png "Final result")
+![Final chart](./pictures/image5.JPG "Final result")
 
-![Final chart](./pictures/image6.png "Final result")
+![Final chart](./pictures/image6.JPG "Final result")
 
 
 # Conclusions:
