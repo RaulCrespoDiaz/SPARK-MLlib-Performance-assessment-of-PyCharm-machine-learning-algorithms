@@ -4,11 +4,8 @@
 
 **This is an open task aimed at assessing the performance of some of the machine learning algorithms provided by PyCharm. The idea is to generate a number of data sets for clustering and classification using the provided data generators and evaluate the performance of the training step with 1, 2, 4 and 8 cores. The choice of the algorithms and the size of the datasets (number of rows and number of features) are up to you (as a hint, the time required to make the training should be at least higher that two or three minutes with one core in order to get speed-ups with up to 8 cores).**
 
-**Optionally, a suggestion would be to develop a Scala version of algorithms are compare them against the Python version. This way, you can get an insight about the performance differences between both programming languages.**
+There are also a develop a Scala version of algorithms are compare them against the Python version. 
 
-**The deliverable will be a zip file containing the developed programs and a report detailing the experiments carried out and analyzing the obtained results. **
-
-**As this task can require a lot of work depending on what you decide to evaluate, I will assign a higher grade, compared to a normal advanced task, to those works including the Python and Scala codes and depending also on the deep of the analysis carried out.**
 
 For this exercise we will choose 3 Classifications Models and 2 Clustering Models:
 
