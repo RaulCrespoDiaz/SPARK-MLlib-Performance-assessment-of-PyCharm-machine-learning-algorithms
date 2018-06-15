@@ -2,8 +2,6 @@
 
 #Performance assessment of PyCharm machine learning algorithms
 
-#
-
 **This is an open task aimed at assessing the performance of some of the machine learning algorithms provided by PyCharm. The idea is to generate a number of data sets for clustering and classification using the provided data generators and evaluate the performance of the training step with 1, 2, 4 and 8 cores. The choice of the algorithms and the size of the datasets (number of rows and number of features) are up to you (as a hint, the time required to make the training should be at least higher that two or three minutes with one core in order to get speed-ups with up to 8 cores).**
 
 There are also a develop a Scala version of algorithms are compare them against the Python version. 
